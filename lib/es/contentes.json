@@ -1,0 +1,124 @@
+{
+    "1videolong": {
+      "titulo": "Título del video largo",
+      "subtitulo": "Subtítulo del video largo"
+    },
+    "2bannerlong": {
+      "titulo": "Título del banner largo",
+      "subtitulo": "Subtítulo del banner largo",
+      "descripcion": "Descripción del banner largo"
+    },
+    "3cuadricula": {
+      "col1": {
+        "titulo": "Título columna 1",
+        "descrip": "Descripción columna 1",
+        "boton": "Botón columna 1"
+      },
+      "col2": {
+        "titulo": "Título columna 2",
+        "descrip": "Descripción columna 2",
+        "boton": "Botón columna 2"
+      },
+      "col3": {
+        "titulo": "Título columna 3",
+        "descrip": "Descripción columna 3",
+        "boton": "Botón columna 3"
+      }
+    },
+    "4rowcontent": {
+      "elem1": {
+        "fecha": "Fecha elem1",
+        "piefoto": "Pie de foto elem1",
+        "titulo": "Título elem1",
+        "descrip": "Descripción elem1",
+        "boton": "Botón elem1"
+      },
+      "elem2": {
+        "fecha": "Fecha elem2",
+        "piefoto": "Pie de foto elem2",
+        "titulo": "Título elem2",
+        "descrip": "Descripción elem2",
+        "boton": "Botón elem2"
+      },
+      "elem3": {
+        "fecha": "Fecha elem3",
+        "piefoto": "Pie de foto elem3",
+        "titulo": "Título elem3",
+        "descrip": "Descripción elem3",
+        "boton": "Botón elem3"
+      },
+      "elem4": {
+        "fecha": "Fecha elem4",
+        "piefoto": "Pie de foto elem4",
+        "titulo": "Título elem4",
+        "descrip": "Descripción elem4",
+        "boton": "Botón elem4"
+      },
+      "elem5": {
+        "fecha": "Fecha elem5",
+        "piefoto": "Pie de foto elem5",
+        "titulo": "Título elem5",
+        "descrip": "Descripción elem5",
+        "boton": "Botón elem5"
+      },
+      "elem6": {
+        "fecha": "Fecha elem6",
+        "piefoto": "Pie de foto elem6",
+        "titulo": "Título elem6",
+        "descrip": "Descripción elem6",
+        "boton": "Botón elem6"
+      },
+      "elem7": {
+        "fecha": "Fecha elem7",
+        "piefoto": "Pie de foto elem7",
+        "titulo": "Título elem7",
+        "descrip": "Descripción elem7",
+        "boton": "Botón elem7"
+      },
+      "elem8": {
+        "fecha": "Fecha elem8",
+        "piefoto": "Pie de foto elem8",
+        "titulo": "Título elem8",
+        "descrip": "Descripción elem8",
+        "boton": "Botón elem8"
+      },
+      "elem9": {
+        "fecha": "Fecha elem9",
+        "piefoto": "Pie de foto elem9",
+        "titulo": "Título elem9",
+        "descrip": "Descripción elem9",
+        "boton": "Botón elem9"
+      }
+    },
+    "5footer": {
+      "filas": {
+        "copyright": "© 2023 Company",
+        "cookies1": "Política de cookies",
+        "cookies2": "Aviso legal",
+        "polprivacidad": "Política de privacidad"
+      },
+      "columnas": {
+        "col1": {
+          "infocontact1": "Dirección",
+          "infocontact2": "Teléfono",
+          "infocontact3": "Correo electrónico",
+          "infocontact4": "Horario de atención",
+          "infocontact5": "Redes sociales"
+        },
+        "col2": {
+          "portfolio": "Portfolio",
+          "devweb": "Desarrollo web",
+          "devapp": "Apps",
+          "mkdig": "marketingdigital",
+          "sobrenosotros": "sobrenosotros",
+          "trabajaconnosotros": "trabajaconnosotros"
+        }
+      }
+    }
+  }
+   
+  
+  
+  
+  
+  

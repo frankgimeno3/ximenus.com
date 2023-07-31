@@ -1,0 +1,16 @@
+{
+    "navtop": {
+      "boton1": "valor_boton1_navtop",
+      "boton2": "valor_boton2_navtop",
+      "boton3": "valor_boton3_navtop",
+      "boton4": "valor_boton4_navtop",
+      "boton5": "valor_boton5_navtop"
+    },
+    "secondnav": {
+      "boton1": "valor_boton1_secondnav",
+      "boton2": "valor_boton2_secondnav",
+      "boton3": "valor_boton3_secondnav",
+      "boton4": "valor_boton4_secondnav",
+      "boton5": "valor_boton5_secondnav"
+    }
+  }

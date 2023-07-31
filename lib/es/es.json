@@ -1,0 +1,8 @@
+{
+    "navs": {
+      "$import": "./navses.json"
+    },
+    "content": {
+      "$import": "./contentes.json"
+    }
+  }
